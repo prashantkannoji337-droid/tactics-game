@@ -1,0 +1,7 @@
+{
+  "name": "Tic Tac Toe Tactics",
+  "description": "A refined, tactile Tic Tac Toe game featuring Classic, Infinite 3-Piece mode, 4x4 grid, and intelligent AI opponents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
